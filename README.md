@@ -1,2 +1,2 @@
-# Notary---books-reading-website
-It has english as well as hindi stories
+Notary
+Notary: A coding project for searching through text in javascript by Karanmeet Singh.
